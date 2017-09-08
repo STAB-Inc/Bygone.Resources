@@ -1,2 +1,2 @@
-# DECO1800-Resources
-Resources for the DECO project
+# Bygone-Resources
+Resources for Bygone
